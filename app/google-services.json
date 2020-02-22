@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "34979537165",
+    "firebase_url": "https://swipelistener.firebaseio.com",
+    "project_id": "swipelistener",
+    "storage_bucket": "swipelistener.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34979537165:android:f43d6de9993de841941044",
+        "android_client_info": {
+          "package_name": "com.example.swipelistener"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34979537165-o1f6k6imo7me2b5at4ue0rm6uboetoc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swipelistener",
+            "certificate_hash": "83155256e4241045a464dc04c6b4d46e049c0834"
+          }
+        },
+        {
+          "client_id": "34979537165-dgq3ovg3r027f69daogtc78klfnkdcv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs_GcGgTKnv1fm_xS44Atnv0xj7nakbqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34979537165-dgq3ovg3r027f69daogtc78klfnkdcv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
